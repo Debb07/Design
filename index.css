@@ -1,6 +1,4 @@
-    @import url('https://fonts.google.com/specimen/Lexend+Deca');
-
-    @import url('https://fonts.google.com/specimen/Big+Shoulders+Display');
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca:wght@200&display=swap');
 
 
 *{
@@ -22,6 +20,11 @@ body {
     justify-content: center;
     text-align: left;
     height: 100vh;
+    border: 1px thin whitesmoke;
+    border-radius: 10px;
+}
+
+.end{
     border: 1px thin whitesmoke;
     border-radius: 10px;
 }
