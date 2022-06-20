@@ -43,22 +43,27 @@ nav:hover {
 .item-a{
     background-color: rgb(255, 72, 0);
     grid-area: a;
+    width: 30px;
 }
 
 .item-b{
     background-color: orange;
     grid-area: b;
+    width: 15px;
 }
 
 .item-c{
     background-color: rgb(11, 138, 11);
     grid-area: c;
+    width: 10px;
 }
 .item-d{
     background-color: rgb(3, 111, 184);
     grid-area: d;
+    width: 30px;
 }
 .item-e{
     background-color: rgb(3, 111, 184);
     grid-area: e;
+    width: 30px;
 }
